@@ -1,0 +1,35 @@
+body{
+    background-color: whitesmoke;
+    margin: 30px;
+}
+
+span{
+    color: red;
+}
+
+input:focus{
+    outline: 0;
+    border-color: lightgreen;
+}
+th{
+    padding: 10px;
+    text-align: left;
+}
+
+button{
+    width: 170%;
+    height: 50px;
+    border: 20px;
+    background-color: #4169E1;
+    color: white;
+}
+button:hover{
+    background-color: darkblue;
+	box-shadow:0px 0px 5px 2px black;
+}
+.user-update{
+    padding:30px;
+    margin:auto;
+    height: 30px;
+}
+

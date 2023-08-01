@@ -1,0 +1,47 @@
+[
+    {
+        "fname": "Somel",
+        "lname": "Ahmed",
+        "userName": "Somelahmed",
+        "dateOfBirth": "2000-08-12",
+        "phoneNumber": "01870436887",
+        "email": "somelahmed88@gmail.com",
+        "gender": "Male",
+        "city": "Dhaka",
+        "zipCode": "2240",
+        "address": "House: 8\/A, Road:31",
+        "password": "S@mel682823799o",
+        "confirmPassword": "S@mel682823799o",
+        "File": "..\/uploads\/somelahmed88@gmail.com.jpg"
+    },
+    {
+        "fname": "Aminul",
+        "lname": "Islam",
+        "userName": "AminulIslam",
+        "dateOfBirth": "2000-08-12",
+        "phoneNumber": "01768282379",
+        "email": "aminulislam88@gmail.com",
+        "gender": "Male",
+        "city": "Rajshahi",
+        "zipCode": "2230",
+        "address": "House: 8\/A, Road:31",
+        "password": "Aminul@682823799o",
+        "confirmPassword": "Aminul@682823799o",
+        "File": "..\/uploads\/aminulislam88@gmail.com.jpg"
+    },
+    {
+        "fname": "Ajoy",
+        "lname": "Roy",
+        "userName": "AjoyRoy",
+        "dateOfBirth": "2000-04-08",
+        "phoneNumber": "01735818460",
+        "email": "aj.anik1305@gmail.com",
+        "gender": "Male",
+        "city": "Dhaka",
+        "zipCode": "2240",
+        "address": "House: 8\/A, Road:31",
+        "password": "AJ_anik@12",
+        "confirmPassword": "AJ_anik@12",
+        "File": "..\/uploads\/aj.anik1305@gmail.com.jpg"
+    }
+]

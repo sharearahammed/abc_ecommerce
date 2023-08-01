@@ -1,0 +1,58 @@
+body{
+    background-color: whitesmoke;
+    margin: 30px;
+}
+.user_reg{
+    text-align: center;
+    border: 5px;
+    padding: 5px;
+    margin: auto; 
+}
+span{
+    color: red;
+}
+header{
+    padding: 20px;
+}
+table{
+    background-color: lightskyblue;
+    padding: 5%;
+    margin: auto;
+
+}
+input:focus{
+    outline: 0;
+    border-color: lightgreen;
+}
+th{
+    padding: 10px;
+    text-align: left;
+}
+
+button{
+    width: 170%;
+    height: 50px;
+    border: 20px;
+    background-color: #4169E1;
+    color: white;
+    transform: translate(-39%,40%);
+}
+button:hover{
+    background-color: Green;
+	box-shadow:0px 0px 5px 2px green;
+}
+.log {
+    text-align: center;
+}
+.user-update{
+    padding:30px;
+    margin:auto;
+    height: 30px;
+}
+p{
+    
+    margin: 30px;
+    width: 50%;
+    transform: translate(30%,10%);
+    
+}
